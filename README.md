@@ -1,4 +1,4 @@
-# Live-chat-web
+# Live-chat-website
 React JS is used for front end development
 
 MongoDB is used for database storage
